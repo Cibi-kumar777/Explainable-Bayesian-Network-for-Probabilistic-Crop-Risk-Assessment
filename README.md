@@ -236,6 +236,14 @@ The uploaded project review and paper describe the approach and results, but thi
 - Integrate real-time weather data and crop-failure or yield-loss observations.
 - Improve explanations so users can understand which evidence most changes a prediction.
 - Build a user interface for entering environmental values and viewing crop probabilities and uncertainty.
+- 
+## Contributors
+
+- [Bhadresh RP]-(https://github.com/BHADHRESH) — Contributor
+- [B. Cibi Kumar](https://github.com/Cibi-kumar777) — Contributor
+- [Ch.Priya madhav](https://github.com/madhav1206) — Contributor
+- [G.Rishi kanth](https://github.com/GeethamRishiKanth) — Contributor
+
 
 ## Team Members
 
